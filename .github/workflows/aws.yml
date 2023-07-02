@@ -38,7 +38,7 @@ jobs:
     env:
       AWS_DEFAULT_REGION: us-east-1
       AWS_ECR_REPOSITORY_NAME: demo-deploy
-      AWS_ECS_SERVICE_NAME: demo-deploy
+      AWS_ECS_SERVICE_NAME: demo-deploy0
       AWS_ECS_CLUSTER_NAME: demo-deploy
 
     steps:
